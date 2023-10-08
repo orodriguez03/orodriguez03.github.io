@@ -14,5 +14,7 @@ Part B. Inside of RStudio/Posit, create a new project from Github and supply the
 3. While viewing the public repository look for the 'Fork' icon/button in the top-right corner of the page.
 4. Click the 'Fork' button.
 
+## Problem Set 3
 
+file:///Users/oswaldororiguez/Downloads/ProblemSet3.html
 
